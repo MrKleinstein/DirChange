@@ -1,0 +1,10 @@
+C:\Users\tklei\source\repos\DirCheck\DirCheck\bin\Debug\DirCheck.exe.config
+C:\Users\tklei\source\repos\DirCheck\DirCheck\bin\Debug\DirCheck.exe
+C:\Users\tklei\source\repos\DirCheck\DirCheck\bin\Debug\DirCheck.pdb
+C:\Users\tklei\source\repos\DirCheck\DirCheck\bin\Debug\Topshelf.dll
+C:\Users\tklei\source\repos\DirCheck\DirCheck\bin\Debug\Topshelf.xml
+C:\Users\tklei\source\repos\DirCheck\DirCheck\obj\Debug\DirCheck.csprojAssemblyReference.cache
+C:\Users\tklei\source\repos\DirCheck\DirCheck\obj\Debug\DirCheck.csproj.CoreCompileInputs.cache
+C:\Users\tklei\source\repos\DirCheck\DirCheck\obj\Debug\DirCheck.csproj.CopyComplete
+C:\Users\tklei\source\repos\DirCheck\DirCheck\obj\Debug\DirCheck.exe
+C:\Users\tklei\source\repos\DirCheck\DirCheck\obj\Debug\DirCheck.pdb
